@@ -1,4 +1,4 @@
-This repository contains data and scripts to replicate the introduction in "Reconceptualizing Conflict Emergence: Evidence from Machine Learning".
+This repository contains data and scripts to replicate "Unpacking Causal Complexity in Conflict Research with Interpretable Machine Leaning".
 
 ## Requirements
 - The analysis is run in Python 3.9.21
